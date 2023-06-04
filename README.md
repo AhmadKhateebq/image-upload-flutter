@@ -1,16 +1,14 @@
 # uploadimagetest
-
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Select images from the device's gallery
+- Preview selected images before uploading
+- Upload selected images to a google drive folder
+- Error handling for failed uploads
+- 
+Dependencies
+flutter: The Flutter framework.
+http: A package for making HTTP requests.
+image_picker: A Flutter plugin for selecting images from the device's gallery.
+path_provider: A plugin for accessing the device's storage directory.
+dio: A powerful HTTP client for Dart.
+fluttertoast: A Flutter plugin for showing toast messages.
