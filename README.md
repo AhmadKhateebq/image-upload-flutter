@@ -4,7 +4,7 @@ A new Flutter project.
 - Preview selected images before uploading
 - Upload selected images to a google drive folder
 - Error handling for failed uploads
-Dependencies
+#Dependencies
 - flutter: The Flutter framework.
 - http: A package for making HTTP requests.
 - image_picker: A Flutter plugin for selecting images from the device's gallery.
